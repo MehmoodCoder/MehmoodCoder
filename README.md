@@ -1,24 +1,161 @@
-# ⚡ Welcome to my Advanced Dev Space!
+# Hi there, I'm Mehmood Hassan 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:161b22&text=Mehmood%20Hassan&fontSize=55&fontColor=00F2FE" alt="Mehmood Banner" width="100%" />
-</p>
+### Full Stack Software Engineer | Python Developer | Django • Next.js • React.js | Pandas • Numpy • Matplotlib • Sk-learn | GitHub • Git 
 
-## 🌐 Live Web Portfolio Dashboard
-Maine apni poori developer dashboard analytics aur full functional modules ko **GitHub Pages** par shift kar diya hai taake light/dark themes aur metrics perfect responsive load ho sakein!
+I'm a passionate **Python Developer** specializing in ** Python-based web development** and data-driven applications. I enjoy transforming ideas into clean, functional code while continuously learning modern software development practices.
 
-### 🔗 [👉 Click Here to Launch My Live Profile Dashboard 🚀](https://MehmoodCoder.github.io/MehmoodCoder/)
+Currently, I am a **Dev Weekends Fellow '26** collaborating with local tech communities, and I am actively **seeking internship opportunities** where I can contribute to real-world projects and grow as a developer.
+
+Alongside coding, I am a **passionate self-learner** currently mastering **React.js & Next.js** while practicing **DSA on LeetCode** to strengthen my programming fundamentals.
 
 ---
 
-### 👾 Quick Core Profile Overview
-```text
-      ________________________
-    //                        \\
-   ||   ||||||        ||||||   ||
-   ||  [  o  ]       [  o  ]   ||
-   ||       \   ___   /        ||
-   ||        \ [___] /         ||
-    \\________\_____/_________//
-     -------------------------
-         [ MEHMOOD CODER ]
+## 🚀 About Me
+
+- 💻 Software Engineer specializing in Python and Full-Stack Web Development
+- 🐍 Primary Languages: Python & C
+- 🎨 UI/UX Design enthusiast using Figma to build templates and prototypes
+- 🎓 Computer Science student focusing on modern software and python development
+- 🤝 Dev Weekends Fellow '26 collaborating with local tech communities
+- 📚 Passionate self-learner constantly exploring new tech
+- ⚙️ Skilled in setting up Linux development environments and Git workflows
+- 🌐 Seeking paid internships
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
+- Python
+- C
+
+---
+
+## Python Libraries
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" />
+</p>
+
+- Numpy
+- Pandas
+- Sk-learn
+- Matplotlib
+
+---
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=next,react,js,html,css,tailwind,bootstrap" />
+</p>
+
+- Next.js
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind
+- BootStrap
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,django" />
+</p>
+
+- C
+- Python with Django
+
+---
+
+## Databases
+
+- Json (API)
+
+---
+
+## DevOps & CI/CD
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+- Git
+- GitHub
+
+---
+
+## Tools & Collaboration
+
+<p>
+<img src="https://skillicons.dev/icons?i=replit,figma,discord,vscode,notion,vercel,anaconda" />
+</p>
+
+- Replit
+- Figma
+- Discord
+- VS Code
+- Notion
+- Vercel
+- Anaconda (Miniconda)
+
+---
+
+# Projects 
+
+### 🛒 Tour Travel Website
+
+Tech Stack
+
+- React.js (Vite)
+
+---
+
+### 📚 Student Management System
+
+- C Language
+
+---
+
+# 📈 Current Focus
+
+- Software Development
+- Python Development
+- AI/ML (Python)
+- Full Stack Development
+- Next.js
+- DSA (leetcode)
+
+---
+
+# 📫 Connect With Me
+
+📧 Email : **mehmood.mh56@gmail.com**
+
+💼 LinkedIn : [linkedin.com/in/mehmood-hassan](https://www.linkedin.com/in/mehmood-hassan-7604a03b1)
+
+🐦 X (Twitter) : [linkedin.com/in/mehmood-hassan](https://www.linkedin.com/in/mehmood-hassan-7604a03b1)
+
+🐙 GitHub : [github.com/MehmoodCoder](https://github.com/MehmoodCoder)
+
+📸 Instagram : [instagram.com/mehmood_mh56](https://www.instagram.com/mehmood_mh56)
+
+👾 Discord : [discord.com/users/1512160906715336874](https://discord.com/users/1512160906715336874)
+
+🟦 Facebook : [facebook.com/share/1EabhnRp6p/](https://www.facebook.com/share/1EabhnRp6p/)
+
+💻 Portfolio : [Portfolio Link](https://mh56-portfolio.vercel.app)
+
+---
+
+⭐ *"🤷‍♂️ Happy Coding Without Chai ☕"*
