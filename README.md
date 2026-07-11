@@ -1,4 +1,12 @@
-# Hi there, I'm Mehmood Hassan 👋
+<p align="center">
+  <a href="https://github.com/MehmoodCoder">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=161b22&fontColor=ffffff&fontAlignY=43&fontSize=40&height=120&width=720&text=Hi!%20I'm%20Mehmood%20Hassan%20👋" alt="Hello! I'm Mehmood" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00d2ff&center=true&vCenter=true&width=700&height=44&lines=Python+Developer;Learning+Full-Stack+Development;@DevWeekends+Fellow+'26;Seeking+Paid+Internships" alt="Typing headlines" />
+</p>
 
 ### Full Stack Software Engineer | Python Developer | Django • Next.js • React.js | Pandas • Numpy • Matplotlib • Sk-learn | GitHub • Git 
 
