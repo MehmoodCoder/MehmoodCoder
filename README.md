@@ -10,6 +10,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=ffffff&background=111111&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%F0%9F%93%9A;Python+%26+Django+Developer+%F0%9F%90%8D;Learning+Full-Stack+Development;Part+of+@DevWeekends+Fellowship+26+%F0%9F%9A%80;Seeking+Paid+Internships+%F0%9F%8E%AF" alt="Typing Intro" />
 </p>
 
+---
+
+## 🎨 My Art Img
+
+<p align = "center">
+  <img src = "ascii-art.png" alt ="My Art Img" width = "50%" height = "auto"/>
+</p>
+
+---
+
 ### 🚀 About Me
 
 I'm a passionate **Python Developer** specializing in **Python-based web development** and data-driven applications. I enjoy transforming ideas into clean, functional code while continuously learning modern software development practices.
