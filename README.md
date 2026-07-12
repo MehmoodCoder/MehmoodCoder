@@ -49,7 +49,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 ### 🛠️ Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,django,next,react,js,html,css,tailwind,bootstrap" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=python,c,django,next,react,vite,js,html,css,tailwind,bootstrap" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 ### ⚙️ Tools, DevOps & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,figma,discord,notion,vercel,anaconda" alt="Tools Icons" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,figma,discord,notion,vercel,anaconda,raspberrypi" alt="Tools Icons" />
   </a>
 </p>
 
@@ -98,11 +98,12 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=next,react,js,html,css,tailwind,bootstrap" alt="Frontend icons" />
+  <img src="https://skillicons.dev/icons?i=next,react,vite,js,html,css,tailwind,bootstrap" alt="Frontend icons" />
 </p>
 
 - Next.js
 - React.js
+- Vite + React
 - JavaScript
 - HTML5
 - CSS3
@@ -142,7 +143,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 ## Tools & Collaboration
 
 <p>
-  <img src="https://skillicons.dev/icons?i=replit,figma,discord,vscode,notion,vercel,anaconda" alt="Tools icons" />
+  <img src="https://skillicons.dev/icons?i=replit,figma,discord,vscode,notion,vercel,anaconda,raspberrypi" alt="Tools icons" />
 </p>
 
 - Replit
@@ -152,6 +153,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 - Notion
 - Vercel
 - Anaconda (Miniconda)
+- Raspberrypi
 
 ---
 
@@ -236,10 +238,15 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 
 # 📫 Connect With Me
 
+<p>
+  <img src = "https://skillicons.dev/icons?i=gmail,linkedin,twitter" alt="Gmail, LinkedIn Icons"/>
+  <img src="https://skillicons.dev/icons?i=github,instagram,discord,vercel" alt="Contact Links" />
+</p>
+
 <p align="left">
   📧 <b>Email:</b> <a href="mailto:mehmood.mh56@gmail.com"><b>mehmood.mh56@gmail.com</b></a><br/>
   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mehmood-hassan-7604a03b1" target="_blank">linkedin.com/in/mehmood-hassan</a><br/>
-  🐦 <b>X (Twitter):</b> <a href="https://www.linkedin.com/in/mehmood-hassan-7604a03b1" target="_blank">twitter.com/mehmood-hassan</a><br/>
+  🐦 <b>X (Twitter):</b> <a href="https://x.com/MehmoodHassan56" target="_blank">x.com/MehmoodHassan56</a><br/>
   🐙 <b>GitHub:</b> <a href="https://github.com/MehmoodCoder" target="_blank">github.com/MehmoodCoder</a><br/>
   📸 <b>Instagram:</b> <a href="https://www.instagram.com/mehmood_mh56" target="_blank">instagram.com/mehmood_mh56</a><br/>
   👾 <b>Discord:</b> <a href="https://discord.com/users/1512160906715336874" target="_blank">discord.com/users/mehmood</a><br/>
