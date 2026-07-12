@@ -205,7 +205,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmoodCoder&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmoodCoder&theme=dark&hide_border=true&cache_seconds=7200" alt="GitHub Streak" />
 </p>
 
 <p align="center">
