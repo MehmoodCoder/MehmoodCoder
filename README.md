@@ -26,7 +26,7 @@ I'm a passionate **Python Developer** specializing in **Python-based web develop
 
 Currently, I am a **Dev Weekends Fellow '26** collaborating with local tech communities, and I am actively **seeking internship opportunities** where I can contribute to real-world projects and grow as a developer.
 
-Alongside coding, I am a **passionate self-learner** currently mastering **React.js & Next.js** while practicing **DSA on LeetCode** to strengthen my programming fundamentals.
+Alongside coding, I am a **passionate self-learner** currently mastering **React.js, Node.js & Next.js** while practicing **DSA on LeetCode** to strengthen my programming fundamentals.
 
 ---
 
@@ -35,7 +35,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 - 💻 Software Engineer specializing in Python and Full-Stack Web Development
 - 🐍 Primary Languages: Python & C
 - 🎨 UI/UX Design enthusiast using Figma to build templates and prototypes
-- 🎓 Computer Science student focusing on modern software and python development
+- 🎓 Computer Science student focusing on modern software and Python development
 - 🤝 Dev Weekends Fellow '26 collaborating with local tech communities
 - 📚 Passionate self-learner constantly exploring new tech
 - ⚙️ Skilled in setting up Linux development environments and Git workflows
@@ -64,7 +64,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 ### ⚙️ Tools, DevOps & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,figma,discord,notion,vercel,anaconda,raspberrypi" alt="Tools Icons" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,figma,discord,notion,vercel,anaconda,raspberrypi,postman" alt="Tools Icons" />
   </a>
 </p>
 
@@ -143,7 +143,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 ## Tools & Collaboration
 
 <p>
-  <img src="https://skillicons.dev/icons?i=replit,figma,discord,vscode,notion,vercel,anaconda,raspberrypi" alt="Tools icons" />
+  <img src="https://skillicons.dev/icons?i=replit,figma,discord,vscode,notion,vercel,anaconda,raspberrypi,postman" alt="Tools icons" />
 </p>
 
 - Replit
@@ -154,6 +154,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 - Vercel
 - Anaconda (Miniconda)
 - Raspberrypi
+- Postman
 
 ---
 
@@ -174,7 +175,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 
 - 🎯 Software & Python Development
 - 🤖 AI/ML Applications (Python)
-- 🌐 Full Stack Architecture (Next.js)
+- 🌐 Full Stack Architecture (Next.js, React.js & Node.js)
 - 🧠 Data Structures & Algorithms (LeetCode)
 
 ---
