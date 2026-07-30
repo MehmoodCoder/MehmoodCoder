@@ -43,96 +43,102 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 
 ---
 
-<h2 align="left">💻 Tech Stack </h2>
+<h2 align="left">💻 Tech Stack &nbsp;&nbsp;<img align="absmiddle" height="40" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Tech animation" /></h2>
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
   <thead>
     <tr style="border-bottom: 2px solid #30363d; background-color: #161b22; color: #f0f6fc;">
-      <th align="left" style="padding: 12px; width: 25%;">Category</th>
-      <th align="left" style="padding: 12px; width: 45%;">Interactive Badges / Icons</th>
+      <th align="left" style="padding: 12px; width: 22%;">Category</th>
+      <th align="left" style="padding: 12px; width: 48%;">Interactive Badges / Icons</th>
       <th align="left" style="padding: 12px; width: 30%;">Technologies</th>
     </tr>
   </thead>
-  <tbody style="color: #c9d1d9;">
+  <tbody style="color: #c9d1d9; background-color: #0d1117;">
     <!-- Languages -->
-    <tr style="border-bottom: 1px solid #21262d;">
+    <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
       <td style="padding: 12px;"><b>Languages</b></td>
-      <td style="padding: 12px;">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,c,js,html,css" alt="Languages" />
-        </a>
+      <td style="padding: 12px; vertical-align: middle;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="38" height="38" alt="Python" align="absmiddle" />&nbsp;&nbsp;
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" width="38" height="38" alt="C" align="absmiddle" /></a>&nbsp;&nbsp;
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="38" height="38" alt="JavaScript" align="absmiddle" />&nbsp;&nbsp;
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" height="38" alt="HTML/CSS" align="absmiddle" /></a>
       </td>
       <td style="padding: 12px;">Python, C, JavaScript (ES6+), HTML5, CSS3</td>
     </tr>
     <!-- Frontend -->
-    <tr style="border-bottom: 1px solid #21262d;">
+    <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
       <td style="padding: 12px;"><b>Frontend Frameworks</b></td>
-      <td style="padding: 12px;">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=next,react,vite,tailwind,bootstrap" alt="Frontend" />
-        </a>
+      <td style="padding: 12px; vertical-align: middle;">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next" width="38" height="38" alt="Next.js" align="absmiddle" /></a>&nbsp;&nbsp;
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="38" height="38" alt="React" align="absmiddle" />&nbsp;&nbsp;
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite,tailwind,bootstrap" height="38" alt="Vite, Tailwind, Bootstrap" align="absmiddle" /></a>
       </td>
       <td style="padding: 12px;">Next.js, React.js, Vite, Tailwind CSS, Bootstrap</td>
     </tr>
     <!-- Backend -->
-    <tr style="border-bottom: 1px solid #21262d;">
+    <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
       <td style="padding: 12px;"><b>Backend & Web Frameworks</b></td>
-      <td style="padding: 12px;">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend" />
-        </a>
+      <td style="padding: 12px; vertical-align: middle;">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,django" height="38" alt="Backend" align="absmiddle" /></a>
       </td>
       <td style="padding: 12px;">Node.js Core, Express.js, Django, REST APIs</td>
     </tr>
     <!-- Databases -->
-    <tr style="border-bottom: 1px solid #21262d;">
+    <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
       <td style="padding: 12px;"><b>Databases & Data Formats</b></td>
-      <td style="padding: 12px;">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mongodb" alt="Databases" />
-        </a>&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/JSON_API-000000?style=for-the-badge&logo=json&logoColor=white" height="28" alt="JSON API" />
+      <td style="padding: 12px; vertical-align: middle;">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" width="38" height="38" alt="MongoDB" align="absmiddle" /></a>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/JSON_API-000000?style=for-the-badge&logo=json&logoColor=white" height="28" alt="JSON API" align="absmiddle" />
       </td>
       <td style="padding: 12px;">MongoDB, JSON Data Structures, RESTful Services</td>
     </tr>
-    <!-- Data Science -->
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 12px;"><b>Data Science & ML</b></td>
-      <td style="padding: 12px;">
-        <a href="https://devicon.dev">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38" height="38" alt="NumPy" />
-        </a>&nbsp;&nbsp;
-        <a href="https://devicon.dev">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38" height="38" alt="Pandas" />
-        </a>&nbsp;&nbsp;
-        <a href="https://devicon.dev">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="38" height="38" alt="Scikit-learn" />
-        </a>&nbsp;&nbsp;
-        <a href="https://devicon.dev">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="38" height="38" alt="Matplotlib" />
-        </a>
+    <!-- Data Science & AI -->
+    <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
+      <td style="padding: 12px;"><b>Data Science & AI/ML</b></td>
+      <td style="padding: 12px; vertical-align: middle;">
+        <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38" height="38" alt="NumPy" align="absmiddle" /></a>&nbsp;&nbsp;
+        <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38" height="38" alt="Pandas" align="absmiddle" /></a>&nbsp;&nbsp;
+        <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="38" height="38" alt="Scikit-learn" align="absmiddle" /></a>&nbsp;&nbsp;
+        <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="38" height="38" alt="Matplotlib" align="absmiddle" /></a>&nbsp;&nbsp;
+        <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="38" height="38" alt="Jupyter" align="absmiddle" /></a>
       </td>
-      <td style="padding: 12px;">NumPy, Pandas, Scikit-learn, Matplotlib</td>
+      <td style="padding: 12px;">NumPy, Pandas, Scikit-learn, Matplotlib, Jupyter Notebooks</td>
+    </tr>
+    <!-- IDEs & Environments -->
+    <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
+      <td style="padding: 12px;"><b>IDEs & Environments</b></td>
+      <td style="padding: 12px; vertical-align: middle;">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,anaconda,replit" height="38" alt="IDEs" align="absmiddle" /></a>&nbsp;&nbsp;
+        <a href="https://colab.research.google.com/"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="38" height="38" alt="Google Colab" align="absmiddle" /></a>
+      </td>
+      <td style="padding: 12px;">VS Code, Google Colab, Anaconda, Replit</td>
+    </tr>
+    <!-- Work & Practice Platforms -->
+    <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
+      <td style="padding: 12px;"><b>Work & Practice Platforms</b></td>
+      <td style="padding: 12px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Pathment-111827?style=for-the-badge&logo=workplace&logoColor=38BDF8" height="28" alt="Pathment Platform" align="absmiddle" />&nbsp;&nbsp;
+        <a href="https://leetcode.com/u/Mehmood_Hassan/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38" height="38" alt="LeetCode" align="absmiddle" /></a>&nbsp;&nbsp;
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="38" height="38" alt="GitHub" align="absmiddle" />&nbsp;&nbsp;
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord,notion,raspberrypi" height="38" alt="Platforms" align="absmiddle" /></a>
+      </td>
+      <td style="padding: 12px;">Pathment (Tasks/Work), LeetCode, GitHub, Discord, Notion, Raspberry Pi</td>
     </tr>
     <!-- DevOps & Package Managers -->
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 12px;"><b>DevOps & Package Managers</b></td>
-      <td style="padding: 12px;">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=npm,git,github,vercel" alt="DevOps and NPM" />
-        </a>
+    <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
+      <td style="padding: 12px;"><b>DevOps & Workflow</b></td>
+      <td style="padding: 12px; vertical-align: middle;">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=npm,git,vercel" height="38" alt="DevOps and Package Managers" align="absmiddle" /></a>
       </td>
-      <td style="padding: 12px;">NPM (Node Package Manager), Git, GitHub, Vercel</td>
+      <td style="padding: 12px;">NPM (Node Package Manager), Git, Vercel Deployment</td>
     </tr>
-    <!-- Tools -->
-    <tr>
-      <td style="padding: 12px;"><b>Tools & Environment</b></td>
-      <td style="padding: 12px;">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode,figma,postman,anaconda,replit,notion,discord,raspberrypi" alt="Tools" />
-        </a>
+    <!-- Design & API Testing -->
+    <tr style="background-color: #0d1117;">
+      <td style="padding: 12px;"><b>Design & Testing Tools</b></td>
+      <td style="padding: 12px; vertical-align: middle;">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,postman" height="38" alt="Tools" align="absmiddle" /></a>
       </td>
-      <td style="padding: 12px;">VS Code, Figma, Postman, Anaconda, Replit, Notion, Discord, Raspberry Pi</td>
+      <td style="padding: 12px;">Figma (UI/UX Prototyping), Postman (API Testing)</td>
     </tr>
   </tbody>
 </table>
