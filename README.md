@@ -39,7 +39,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 - 🤝 Dev Weekends Fellow '26 collaborating with local tech communities
 - 📚 Passionate self-learner constantly exploring new tech
 - ⚙️ Skilled in setting up Linux development environments and Git workflows
-- 🌐 Seeking paid internships
+- 🌐 Seeking paid internships & collabrations
 
 ---
 
@@ -125,7 +125,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 
 ## Databases
 
-- Json (API)
+- JSON (API)
 
 ---
 
@@ -153,7 +153,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 - Notion
 - Vercel
 - Anaconda (Miniconda)
-- Raspberrypi
+- Raspberry Pi
 - Postman
 
 ---
@@ -219,19 +219,27 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=MehmoodCoder&theme=dark" alt="GitHub Streak" /></p>
 
+---
+
 <p align="center"><img src="https://github-trophies.vercel.app/?username=MehmoodCoder&theme=dark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" /></p>
 
+---
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MehmoodCoder&theme=dark&bg_color=000000&color=ffffff&line=3b82f6&point=60a5fa&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehmoodCoder&radius=16&theme=merko&area=true&order=5" height="300" alt="Contribution Graph"  />
 </p>
 
-### 📈 3D Contribution Graph
+---
+
+# 📈 3D Contribution Graph
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
-### 📈 Deep GitHub Insights
+---
+
+# 📈 Deep GitHub Insights
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehmoodCoder&theme=dark" alt="Top Languages by Repo" />
