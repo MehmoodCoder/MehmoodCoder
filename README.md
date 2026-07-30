@@ -43,118 +43,99 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 
 ---
 
-# 💻 Tech Stack
+<h2 align="left">💻 Tech Stack </h2>
 
-
-### 🛠️ Languages & Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,django,next,react,vite,js,html,css,tailwind,bootstrap" alt="Tech Stack Icons" />
-  </a>
-</p>
-
-### 📊 Data Science Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
-</p>
-
-### ⚙️ Tools, DevOps & Platforms
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,figma,discord,notion,vercel,anaconda,raspberrypi,postman" alt="Tools Icons" />
-  </a>
-</p>
-
-## Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c" alt="Python and C" />
-</p>
-
-- Python
-- C
-
----
-
-## Python Libraries
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" />
-</p>
-
-- Numpy
-- Pandas
-- Sk-learn
-- Matplotlib
-
----
-
-## Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=next,react,vite,js,html,css,tailwind,bootstrap" alt="Frontend icons" />
-</p>
-
-- Next.js
-- React.js
-- Vite + React
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind
-- BootStrap
-
----
-
-## Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,django" alt="Backend icons" />
-</p>
-
-- C
-- Python with Django
-
----
-
-## Databases
-
-- JSON (API)
-
----
-
-## DevOps & CI/CD
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" alt="DevOps icons" />
-</p>
-
-- Git
-- GitHub
-
----
-
-## Tools & Collaboration
-
-<p>
-  <img src="https://skillicons.dev/icons?i=replit,figma,discord,vscode,notion,vercel,anaconda,raspberrypi,postman" alt="Tools icons" />
-</p>
-
-- Replit
-- Figma
-- Discord
-- VS Code
-- Notion
-- Vercel
-- Anaconda (Miniconda)
-- Raspberry Pi
-- Postman
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
+  <thead>
+    <tr style="border-bottom: 2px solid #30363d; background-color: #161b22; color: #f0f6fc;">
+      <th align="left" style="padding: 12px; width: 25%;">Category</th>
+      <th align="left" style="padding: 12px; width: 45%;">Interactive Badges / Icons</th>
+      <th align="left" style="padding: 12px; width: 30%;">Technologies</th>
+    </tr>
+  </thead>
+  <tbody style="color: #c9d1d9;">
+    <!-- Languages -->
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 12px;"><b>Languages</b></td>
+      <td style="padding: 12px;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,c,js,html,css" alt="Languages" />
+        </a>
+      </td>
+      <td style="padding: 12px;">Python, C, JavaScript (ES6+), HTML5, CSS3</td>
+    </tr>
+    <!-- Frontend -->
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 12px;"><b>Frontend Frameworks</b></td>
+      <td style="padding: 12px;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=next,react,vite,tailwind,bootstrap" alt="Frontend" />
+        </a>
+      </td>
+      <td style="padding: 12px;">Next.js, React.js, Vite, Tailwind CSS, Bootstrap</td>
+    </tr>
+    <!-- Backend -->
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 12px;"><b>Backend & Web Frameworks</b></td>
+      <td style="padding: 12px;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend" />
+        </a>
+      </td>
+      <td style="padding: 12px;">Node.js Core, Express.js, Django, REST APIs</td>
+    </tr>
+    <!-- Databases -->
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 12px;"><b>Databases & Data Formats</b></td>
+      <td style="padding: 12px;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="Databases" />
+        </a>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/JSON_API-000000?style=for-the-badge&logo=json&logoColor=white" height="28" alt="JSON API" />
+      </td>
+      <td style="padding: 12px;">MongoDB, JSON Data Structures, RESTful Services</td>
+    </tr>
+    <!-- Data Science -->
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 12px;"><b>Data Science & ML</b></td>
+      <td style="padding: 12px;">
+        <a href="https://devicon.dev">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38" height="38" alt="NumPy" />
+        </a>&nbsp;&nbsp;
+        <a href="https://devicon.dev">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38" height="38" alt="Pandas" />
+        </a>&nbsp;&nbsp;
+        <a href="https://devicon.dev">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="38" height="38" alt="Scikit-learn" />
+        </a>&nbsp;&nbsp;
+        <a href="https://devicon.dev">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="38" height="38" alt="Matplotlib" />
+        </a>
+      </td>
+      <td style="padding: 12px;">NumPy, Pandas, Scikit-learn, Matplotlib</td>
+    </tr>
+    <!-- DevOps & Package Managers -->
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 12px;"><b>DevOps & Package Managers</b></td>
+      <td style="padding: 12px;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=npm,git,github,vercel" alt="DevOps and NPM" />
+        </a>
+      </td>
+      <td style="padding: 12px;">NPM (Node Package Manager), Git, GitHub, Vercel</td>
+    </tr>
+    <!-- Tools -->
+    <tr>
+      <td style="padding: 12px;"><b>Tools & Environment</b></td>
+      <td style="padding: 12px;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vscode,figma,postman,anaconda,replit,notion,discord,raspberrypi" alt="Tools" />
+        </a>
+      </td>
+      <td style="padding: 12px;">VS Code, Figma, Postman, Anaconda, Replit, Notion, Discord, Raspberry Pi</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
