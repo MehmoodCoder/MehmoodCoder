@@ -196,20 +196,16 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 
 <p align="center">
   <a href="https://github.com/MehmoodCoder">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MehmoodCoder&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MehmoodCoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/MehmoodCoder">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MehmoodCoder&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MehmoodCoder&layout=compact&theme=dark&langs_count=8&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MehmoodCoder&theme=dark&hide_border=true&cache_seconds=7200" alt="GitHub Streak" />
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=MehmoodCoder&theme=dark" alt="GitHub Streak" /></p>
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=MehmoodCoder&theme=dark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-</p>
+<p align="center"><img src="https://github-trophies.vercel.app/?username=MehmoodCoder&theme=dark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" /></p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MehmoodCoder&theme=github-dark&bg_color=0d1117&color=878787&line=bbbbbb&point=999999&area=true&hide_border=true" alt="Contribution Graph" />
