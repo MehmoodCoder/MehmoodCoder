@@ -1,5 +1,5 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Mehmood Hassan — Python Developer</title>
+  <title id="title">Mehmood Hassan — Python Based Developer</title>
   <desc id="desc">An animated professional dark black and orange profile card with smooth color transitions.</desc>
 
   <defs>
@@ -73,7 +73,7 @@
   <!-- Content Text -->
   <g filter="url(#shadow)" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif">
     <text x="600" y="108" fill="#FFFFFF" font-size="56" font-weight="750" letter-spacing="1.5">Mehmood Hassan</text>
-    <text x="600" y="152" fill="#FF9933" font-size="20" font-weight="600" letter-spacing="4">PYTHON BASED DEVELOPER • PART OF DEVWEEKENDS FELLOW</text>
+    <text x="600" y="152" fill="#FF9933" font-size="20" font-weight="600" letter-spacing="4">PYTHON BASED DEVELOPER • PART OF DEVWEEKENDS FELLOWSHIP</text>
     <text x="600" y="190" fill="#FFCC99" font-size="14" font-weight="500" letter-spacing="2.2">BUILDING FULL-STACK SYSTEMS • SEEKING PAID INTERNSHIPS</text>
   </g>
 
