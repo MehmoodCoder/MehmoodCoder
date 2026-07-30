@@ -208,7 +208,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 <p align="center"><img src="https://github-trophies.vercel.app/?username=MehmoodCoder&theme=dark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" /></p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MehmoodCoder&theme=dark&bg_color=0d1117&color=878787&line=bbbbbb&point=999999&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MehmoodCoder&theme=dark&bg_color=000000&color=ffffff&line=3b82f6&point=60a5fa&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ### 📈 3D Contribution Graph
