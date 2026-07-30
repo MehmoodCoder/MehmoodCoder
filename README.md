@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:000000,100:111111&text=Mehmood%20Hassan&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Python%20Developer%20%7C%20Seeking%20Paid%20Internships%20%7C%20Part+of+DevWeekends&descSize=23&descAlignY=72&animation=fadeIn"
-    alt="Hello! I'm Mehmood Hassan"
-    width="100%"
-  />
+  <img src="./header.svg" alt="Mehmood Hassan Header" width="100%" />
 </p>
 
 <p align="center">
