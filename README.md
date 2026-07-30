@@ -220,13 +220,13 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 ### 📈 Deep GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehmoodCoder&theme=github_dark" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehmoodCoder&theme=github_dark" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehmoodCoder&theme=dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehmoodCoder&theme=dark" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehmoodCoder&theme=github_dark" alt="GitHub Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MehmoodCoder&theme=github_dark&utcOffset=5" alt="Commits by Hour" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehmoodCoder&theme=dark" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MehmoodCoder&theme=dark&utcOffset=5" alt="Commits by Hour" />
 </p>
 
 ---
