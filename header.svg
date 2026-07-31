@@ -1,5 +1,5 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Mehmood Hassan — Python &amp;Based Full-Stack Developer</title>
+  <title id="title">Mehmood Hassan — Python Based Full-Stack Developer</title>
   <desc id="desc">An animated professional dark black and orange profile card with smooth color transitions.</desc>
 
   <style>
@@ -92,7 +92,7 @@
   <!-- Content Text -->
   <g filter="url(#shadow)" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif">
     <text class="name-title" x="600" y="88" fill="#FFFFFF" font-size="54" font-weight="750" letter-spacing="1.5">Mehmood Hassan</text>
-    <text x="600" y="126" fill="#FF9933" font-size="19" font-weight="600" letter-spacing="3.5">PYTHON &amp;BASED WEB DEVELOPER • A PART OF DEVWEEKENDS FELLOWSHIP</text>
+    <text x="600" y="126" fill="#FF9933" font-size="19" font-weight="600" letter-spacing="3.5">PYTHON BASED WEB DEVELOPER • PART OF DEVWEEKENDS FELLOWSHIP</text>
     <text x="600" y="156" fill="#FFCC99" font-size="13" font-weight="500" letter-spacing="2">BUILDING FULL-STACK SYSTEMS • SEEKING PAID INTERNSHIPS</text>
   </g>
 
@@ -126,7 +126,7 @@
     <!-- Figma -->
     <g class="tech-badge" transform="translate(520, 0)">
       <rect width="70" height="26" rx="13" fill="#0A0A0A" fill-opacity="0.8" stroke="#FF6600" stroke-opacity="0.8" stroke-width="1.2"/>
-      <text x="35" y="17" fill="#FFCC99" text-anchor="middle">Figma</text>
+      <text x="35" y="17" fill="#FFCC99" text-anchor="middle">AI/ML</text>
     </g>
   </g>
 
