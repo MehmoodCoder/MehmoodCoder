@@ -209,7 +209,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **React
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehmoodCoder&radius=16&theme=merko&area=true&order=5" height="300" alt="Contribution Graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehmoodCoder&radius=17&theme=merko&area=true&order=5" height="300" alt="Contribution Graph"  />
 </p>
 
 ---
