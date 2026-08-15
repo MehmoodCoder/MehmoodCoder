@@ -235,11 +235,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
 
 ---
 
-<p align="center">
-  
  # 📫 Connect With Me
-  
-</p>
 
 <p align="center">
   <a href="mailto:mehmood.mh56@gmail.com"><img src = "https://skillicons.dev/icons?i=gmail" alt="Gmail icon"/></a>&ensp;
