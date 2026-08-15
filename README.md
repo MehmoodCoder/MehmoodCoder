@@ -28,14 +28,14 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
 
 ## 🚀 About Me
 
-- 💻 Software Engineer specializing in Python and Full-Stack Web Development
-- 🐍 Primary Languages: Python & C
-- 🎨 UI/UX Design enthusiast using Figma to build templates and prototypes
-- 🎓 Computer Science student focusing on modern software and Python development
+- 💻 Software Engineer specializing in Python & Full-Stack Web Development (React, Next.js, Node.js)
+- 🐍 Primary Focus: Python, Data Structures & Algorithms (LeetCode), and Web Architectures
+- 🎨 UI/UX Design enthusiast using Figma for wireframing, components, and prototypes
+- 🎓 Computer Science student focusing on modern software engineering and Python development
 - 🤝 Dev Weekends Fellow '26 collaborating with local tech communities
-- 📚 Passionate self-learner constantly exploring new tech
-- ⚙️ Skilled in setting up Linux development environments and Git workflows
-- 🌐 Seeking paid internships & collabrations
+- 📚 Passionate self-learner constantly exploring modern tech stacks and tools
+- ⚙️ Skilled in setting up Linux dev environments, GitHub workflows, and full-stack tools
+- 🌐 Open for paid internships, freelance projects, and tech collaborations
 
 ---
 
