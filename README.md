@@ -238,8 +238,13 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
 # 📫 Connect With Me
 
 <p>
-  <img src = "https://skillicons.dev/icons?i=gmail,linkedin,twitter" alt="Gmail, LinkedIn Icons"/>
-  <img src="https://skillicons.dev/icons?i=github,instagram,discord,vercel" alt="Contact Links" />
+  <img src = "https://skillicons.dev/icons?i=gmail" alt="Gmail icon"/>
+  <img src = "https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icons"/>
+  <img src = "https://skillicons.dev/icons?i=twitter" alt="X Icons"/>
+  <img src = "https://skillicons.dev/icons?i=instagram" alt="Instagram icon"/>
+  <img src = "https://skillicons.dev/icons?i=discord" alt="Discord Icons"/>
+  <img src = "https://skillicons.dev/icons?i=github" alt="GitHub Icons"/>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio Link" />
 </p>
 
 <p align="left">
