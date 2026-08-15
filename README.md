@@ -235,26 +235,20 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
 
 ---
 
-# 📫 Connect With Me
-
-<p>
-  <img src = "https://skillicons.dev/icons?i=gmail" alt="Gmail icon"/>
-  <img src = "https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icons"/>
-  <img src = "https://skillicons.dev/icons?i=twitter" alt="X Icons"/>
-  <img src = "https://skillicons.dev/icons?i=instagram" alt="Instagram icon"/>
-  <img src = "https://skillicons.dev/icons?i=discord" alt="Discord Icons"/>
-  <img src = "https://skillicons.dev/icons?i=github" alt="GitHub Icons"/>
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio Link" />
+<p align="center">
+  
+ # 📫 Connect With Me
+  
 </p>
 
 <p align="center">
-  <a href="mailto:mehmood.mh56@gmail.com"><b>mehmood.mh56@gmail.com</b></a><br/>
-  <a href="https://www.linkedin.com/in/mehmood-hassan-7604a03b1" target="_blank">linkedin.com/in/mehmood-hassan</a><br/>
-  <a href="https://x.com/MehmoodHassan56" target="_blank">x.com/MehmoodHassan56</a><br/>
-  <a href="https://github.com/MehmoodCoder" target="_blank">github.com/MehmoodCoder</a><br/>
-  <a href="https://www.instagram.com/mehmood_mh56" target="_blank">instagram.com/mehmood_mh56</a><br/>
-  <a href="https://discord.com/users/1512160906715336874" target="_blank">discord.com/users/mehmood</a><br/>
-  <a href="https://mh56-portfolio.vercel.app" target="_blank">mh56-portfolio.vercel.app</a>
+  <a href="mailto:mehmood.mh56@gmail.com"><img src = "https://skillicons.dev/icons?i=gmail" alt="Gmail icon"/></a>&ensp;
+  <a href="https://www.linkedin.com/in/mehmood-hassan-7604a03b1" target="_blank"><img src = "https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icons"/></a>&ensp;
+  <a href="https://x.com/MehmoodHassan56" target="_blank"><img src = "https://skillicons.dev/icons?i=twitter" alt="X Icons"/></a>&ensp;
+  <a href="https://github.com/MehmoodCoder" target="_blank"><img src = "https://skillicons.dev/icons?i=github" alt="GitHub Icons"/></a>&ensp;
+  <a href="https://www.instagram.com/mehmood_mh56" target="_blank"><img src = "https://skillicons.dev/icons?i=instagram" alt="Instagram icon"/></a>&ensp;
+  <a href="https://discord.com/users/1512160906715336874" target="_blank"><img src = "https://skillicons.dev/icons?i=discord" alt="Discord Icons"/></a>&ensp;
+  <a href="https://mh56-portfolio.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio Link" /></a>
 </p>
 
 ---
