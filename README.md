@@ -193,10 +193,10 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
 
 <p align="center">
   <a href="https://github.com/MehmoodCoder">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MehmoodCoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MehmoodCoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/MehmoodCoder">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MehmoodCoder&layout=compact&theme=dark&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MehmoodCoder&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
