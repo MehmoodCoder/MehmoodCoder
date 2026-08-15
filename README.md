@@ -238,13 +238,13 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
  # 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:mehmood.mh56@gmail.com"><img src = "https://skillicons.dev/icons?i=gmail" alt="Gmail icon"/></a>&ensp;
-  <a href="https://www.linkedin.com/in/mehmood-hassan-7604a03b1" target="_blank"><img src = "https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icons"/></a>&ensp;
-  <a href="https://x.com/MehmoodHassan56" target="_blank"><img src = "https://skillicons.dev/icons?i=twitter" alt="X Icons"/></a>&ensp;
-  <a href="https://github.com/MehmoodCoder" target="_blank"><img src = "https://skillicons.dev/icons?i=github" alt="GitHub Icons"/></a>&ensp;
-  <a href="https://www.instagram.com/mehmood_mh56" target="_blank"><img src = "https://skillicons.dev/icons?i=instagram" alt="Instagram icon"/></a>&ensp;
-  <a href="https://discord.com/users/1512160906715336874" target="_blank"><img src = "https://skillicons.dev/icons?i=discord" alt="Discord Icons"/></a>&ensp;
-  <a href="https://mh56-portfolio.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio Link" /></a>
+  <a href="mailto:mehmood.mh56@gmail.com" title="Email Me"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail icon"/></a>&ensp;
+  <a href="https://www.linkedin.com/in/mehmood-hassan-7604a03b1" target="_blank" title="LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icons"/></a>&ensp;
+  <a href="https://x.com/MehmoodHassan56" target="_blank" title="X (Twitter) Profile"><img src="https://skillicons.dev/icons?i=twitter" alt="X Icons"/></a>&ensp;
+  <a href="https://github.com/MehmoodCoder" target="_blank" title="GitHub Profile"><img src="https://skillicons.dev/icons?i=github" alt="GitHub Icons"/></a>&ensp;
+  <a href="https://www.instagram.com/mehmood_mh56" target="_blank" title="Instagram Profile"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram icon"/></a>&ensp;
+  <a href="https://discord.com/users/1512160906715336874" target="_blank" title="Discord Profile"><img src="https://skillicons.dev/icons?i=discord" alt="Discord Icons"/></a>&ensp;
+  <a href="https://mh56-portfolio.vercel.app" target="_blank" title="Personal Portfolio"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio Link" /></a>
 </p>
 
 ---
