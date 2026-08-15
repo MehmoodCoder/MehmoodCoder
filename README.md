@@ -254,7 +254,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
   <a href="https://github.com/MehmoodCoder" target="_blank">github.com/MehmoodCoder</a><br/>
   <a href="https://www.instagram.com/mehmood_mh56" target="_blank">instagram.com/mehmood_mh56</a><br/>
   <a href="https://discord.com/users/1512160906715336874" target="_blank">discord.com/users/mehmood</a><br/>
-  </b> <a href="https://mh56-portfolio.vercel.app" target="_blank">mh56-portfolio.vercel.app</a>
+  <a href="https://mh56-portfolio.vercel.app" target="_blank">mh56-portfolio.vercel.app</a>
 </p>
 
 ---
