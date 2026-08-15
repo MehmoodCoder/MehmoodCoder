@@ -105,8 +105,8 @@
     </g>
     <!-- MERN Stack -->
     <g class="tech-badge" transform="translate(92, 0)">
-      <rect width="160" height="28" rx="14" fill="#0A0A0A" fill-opacity="0.85" stroke="#FF6600" stroke-opacity="0.8" stroke-width="1.2"/>
-      <text x="80" y="18" fill="#FFCC99" text-anchor="middle">MERN-Stack Dev</text>
+      <rect width="170" height="28" rx="14" fill="#0A0A0A" fill-opacity="0.85" stroke="#FF6600" stroke-opacity="0.8" stroke-width="1.2"/>
+      <text x="80" y="18" fill="#FFCC99" text-anchor="middle">MERN-Stack Development</text>
     </g>
     <!-- Full-Stack -->
     <g class="tech-badge" transform="translate(264, 0)">
