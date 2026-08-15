@@ -247,15 +247,14 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
   <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio Link" />
 </p>
 
-<p align="left">
-  📧 <b>Email:</b> <a href="mailto:mehmood.mh56@gmail.com"><b>mehmood.mh56@gmail.com</b></a><br/>
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mehmood-hassan-7604a03b1" target="_blank">linkedin.com/in/mehmood-hassan</a><br/>
-  🐦 <b>X (Twitter):</b> <a href="https://x.com/MehmoodHassan56" target="_blank">x.com/MehmoodHassan56</a><br/>
-  🐙 <b>GitHub:</b> <a href="https://github.com/MehmoodCoder" target="_blank">github.com/MehmoodCoder</a><br/>
-  📸 <b>Instagram:</b> <a href="https://www.instagram.com/mehmood_mh56" target="_blank">instagram.com/mehmood_mh56</a><br/>
-  👾 <b>Discord:</b> <a href="https://discord.com/users/1512160906715336874" target="_blank">discord.com/users/mehmood</a><br/>
-  🟦 <b>Facebook:</b> <a href="https://www.facebook.com/share/1EabhnRp6p/" target="_blank">facebook.com/mehmood</a><br/>
-  💻 <b>Portfolio:</b> <a href="https://mh56-portfolio.vercel.app" target="_blank">mh56-portfolio.vercel.app</a>
+<p align="center">
+  <a href="mailto:mehmood.mh56@gmail.com"><b>mehmood.mh56@gmail.com</b></a><br/>
+  <a href="https://www.linkedin.com/in/mehmood-hassan-7604a03b1" target="_blank">linkedin.com/in/mehmood-hassan</a><br/>
+  <a href="https://x.com/MehmoodHassan56" target="_blank">x.com/MehmoodHassan56</a><br/>
+  <a href="https://github.com/MehmoodCoder" target="_blank">github.com/MehmoodCoder</a><br/>
+  <a href="https://www.instagram.com/mehmood_mh56" target="_blank">instagram.com/mehmood_mh56</a><br/>
+  <a href="https://discord.com/users/1512160906715336874" target="_blank">discord.com/users/mehmood</a><br/>
+  </b> <a href="https://mh56-portfolio.vercel.app" target="_blank">mh56-portfolio.vercel.app</a>
 </p>
 
 ---
