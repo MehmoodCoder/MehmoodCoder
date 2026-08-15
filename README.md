@@ -158,7 +158,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
 
 - 🎯 Software & Python Development
 - 🤖 AI/ML Applications (Python)
-- 🌐 Full Stack Architecture (Next.js, React.js & Node.js)
+- 🌐 Full Stack Architecture (MERN) 
 - 🧠 Data Structures & Algorithms (LeetCode)
 
 ---
