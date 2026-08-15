@@ -20,9 +20,9 @@
 
 I'm a passionate **Python Developer** specializing in **Python-based web development** and data-driven applications. I enjoy transforming ideas into clean, functional code while continuously learning modern software development practices.
 
-Currently, I am a **Dev Weekends Fellow '26** collaborating with local tech communities, and I am actively **seeking internship opportunities** where I can contribute to real-world projects and grow as a developer.
+Currently, I am a **Dev Weekends Fellow '26** collaborating with local tech communities, and I am actively **seeking internship and collaborations opportunities** where I can contribute to real-world projects and grow as a developer.
 
-Alongside coding, I am a **passionate self-learner** currently mastering **React.js, Node.js & Next.js** while practicing **DSA on LeetCode** to strengthen my programming fundamentals.
+Alongside coding, I am a **passionate self-learner** currently mastering **MERN Stack Development** while practicing **DSA on LeetCode** to strengthen my programming fundamentals.
 
 ---
 
