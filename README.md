@@ -169,7 +169,6 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
   <a href="https://leetcode.com/u/Mehmood_Hassan/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Mehmood_Hassan?theme=dark&ext=activity" height="280em" alt="LeetCode Activity" />
   </a>
-    &ensp;&ensp;
   <a href="https://leetcode.com/u/Mehmood_Hassan/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Mehmood_Hassan?theme=dark&ext=heatmap" height="280em" alt="LeetCode Heatmap" />
   </a>
