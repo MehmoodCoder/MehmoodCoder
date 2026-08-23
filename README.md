@@ -115,8 +115,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
       <td style="padding: 12px; vertical-align: middle;">
         <img src="https://img.shields.io/badge/Pathment-111827?style=for-the-badge&logo=workplace&logoColor=38BDF8" height="28" alt="Pathment Platform" align="absmiddle" />&nbsp;&nbsp;
         <a href="https://leetcode.com/u/Mehmood_Hassan/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38" height="38" alt="LeetCode" align="absmiddle" /></a>&nbsp;&nbsp;
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="38" height="38" alt="GitHub" align="absmiddle" />&nbsp;&nbsp;
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord,notion,raspberrypi" height="38" alt="Platforms" align="absmiddle" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,discord,notion,raspberrypi" height="38" alt="Platforms" align="absmiddle" /></a>
       </td>
       <td style="padding: 12px;">Pathment (Tasks/Work), LeetCode, GitHub, Discord, Notion, Raspberry Pi</td>
     </tr>
