@@ -2,6 +2,7 @@
   <img src="./header.svg" alt="Mehmood Hassan Header" width="100%" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=ffffff&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%F0%9F%93%9A;Python+based+MERN-Stack+Developer+%F0%9F%90%8D;Learning+Full-Stack+Development;Part+of+@DevWeekends+Fellowship+26+%F0%9F%9A%80;Seeking+Paid+Internships+and+Collaborations%F0%9F%8E%AF" alt="Typing Intro" />
 </p>
