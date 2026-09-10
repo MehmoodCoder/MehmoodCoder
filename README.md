@@ -32,7 +32,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
 - 💻 Software Engineer specializing in Python & Full-Stack Web Development (React, Next.js, Node.js)
 - 🐍 Primary Focus: Python, Data Structures & Algorithms (LeetCode), and Web Architectures
 - 🎨 UI/UX Design enthusiast using Figma for wireframing, components, and prototypes
-- 🎓 Computer Science student focusing on modern software engineering and Python development
+- 🎓 Computer Science student focusing on modern software engineering and development
 - 🤝 Dev Weekends Fellow '26 collaborating with local tech communities
 - 📚 Passionate self-learner constantly exploring modern tech stacks and tools
 - ⚙️ Skilled in setting up Linux dev environments, GitHub workflows, and full-stack tools
@@ -156,10 +156,12 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
 
 # 📈 Current Focus
 
-- 🎯 Software & Python Development
-- 🤖 AI/ML Applications (Python)
-- 🌐 Full Stack Architecture (MERN) 
+- 🎯 Learning Software & Development
+- 🤖 AI/ML Applications (Remote Internship)
+- 🌐 Full Stack Architecture (MERN)
 - 🧠 Data Structures & Algorithms (LeetCode)
+- 🏛️ DAE Software Tech Diploma @ GCT Lahore (TEVTA & Shenzhen Institute Joint Program)
+- 🇨🇳 Advanced Java & SQL Modules via Shenzhen Institute, China
 
 ---
 
