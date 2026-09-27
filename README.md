@@ -58,9 +58,10 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="38" height="38" alt="Python" align="absmiddle" />&nbsp;&nbsp;
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" width="38" height="38" alt="C" align="absmiddle" /></a>&nbsp;&nbsp;
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="38" height="38" alt="JavaScript" align="absmiddle" />&nbsp;&nbsp;
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="38" height="38" alt="JavaScript" align="absmiddle" />&nbsp;&nbsp;
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" height="38" alt="HTML/CSS" align="absmiddle" /></a>
       </td>
-      <td style="padding: 12px;">Python, C, JavaScript (ES6+), HTML5, CSS3</td>
+      <td style="padding: 12px;">Python, C, JavaScript (ES6+), TypeScript, HTML5, CSS3</td>
     </tr>
     <!-- Frontend -->
     <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
