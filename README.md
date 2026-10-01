@@ -162,7 +162,7 @@ Alongside coding, I am a **passionate self-learner** currently mastering **MERN 
 - 🤖 AI/ML Applications (Remote Internship)
 - 🌐 Full Stack Architecture (MERN)
 - 🧠 Data Structures & Algorithms (LeetCode)
-- 🏛️ DAE Software Tech Diploma @ GCT Lahore (TEVTA & Shenzhen Institute Joint Program)
+- 🏛️ DAE Software Tech Diploma @ GCT PGA Lahore (TEVTA & Shenzhen Institute Joint Program)
 - 🇨🇳  &nbsp;Advanced Java & SQL Modules via Shenzhen Institute, China
 
 ---
