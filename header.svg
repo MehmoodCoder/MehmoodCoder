@@ -1,5 +1,5 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Mehmood Hassan — Full-Stack &amp; Python based Developer</title>
+  <title id="title">Mehmood Hassan — Full-Stack &amp; MERN Developer</title>
   <desc id="desc">An animated professional dark black and orange profile card with smooth color transitions.</desc>
 
   <style>
@@ -101,7 +101,7 @@
     <!-- Python -->
     <g class="tech-badge" transform="translate(0, 0)">
       <rect width="80" height="28" rx="14" fill="#0A0A0A" fill-opacity="0.85" stroke="#FF6600" stroke-opacity="0.8" stroke-width="1.2"/>
-      <text x="40" y="18" fill="#FFCC99" text-anchor="middle">Python</text>
+      <text x="40" y="18" fill="#FFCC99" text-anchor="middle">Shenzhen Student</text>
     </g>
     <!-- MERN Stack -->
     <g class="tech-badge" transform="translate(92, 0)">
