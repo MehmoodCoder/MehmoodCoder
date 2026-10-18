@@ -140,6 +140,17 @@ Currently, I'm pursuing my **DAE in Software Technology** through a joint progra
       </td>
       <td style="padding: 12px;">Figma (UI/UX Prototyping), Postman (API Testing)</td>
     </tr>
+    <tr style="background-color: #0d1117;">
+      <td style="padding: 12px;"><b>Office & Productivity</b></td>
+      <td style="padding: 12px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Microsoft_365-EA4335?style=for-the-badge&logo=microsoft&logoColor=white" height="28" alt="Microsoft 365" align="absmiddle" />&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" height="28" alt="Microsoft Word" />&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" alt="Microsoft Excel" />&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" height="28" alt="Microsoft PowerPoint" />&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" height="28" alt="Microsoft Access" />
+      </td>
+      <td style="padding: 12px;">Microsoft Office 365, Word, Excel, PowerPoint, Access</td>
+    </tr>
   </tbody>
 </table>
 
