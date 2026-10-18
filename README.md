@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=ffffff&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%F0%9F%93%9A;MERN-Stack+Developer+%F0%9F%90%8D;Learning+Full-Stack+Development;Part+of+@DevWeekends+Fellowship+26+%F0%9F%9A%80;Seeking+Paid+Opportunities+and+Collaborations%F0%9F%8E%AF" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=ffffff&center=true&vCenter=true&width=1000&lines=DAE+Software+Tech+Student+%40+GCT+Lahore+(TEVTA+x+Shenzhen China)+%F0%9F%8E%93;MERN-Stack+%26+Python+Developer+%F0%9F%90%8D;Learning+Full-Stack+Development+%F0%9F%92%BB;Part+of+@DevWeekends+Fellowship+'26+%F0%9F%9A%80;Seeking+Paid+Opportunities+%26+Collaborations+%F0%9F%8E%AF" alt="Typing Intro" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 I'm a passionate **Python Developer** specializing in **Python-based web development** and data-driven applications. I enjoy transforming ideas into clean, functional code while continuously learning modern software development practices.
 
-Currently, I am a **Dev Weekends Fellow '26** collaborating with local tech communities, and I am actively **seeking internship and collaborations opportunities** where I can contribute to real-world projects and grow as a developer.
+Currently, I am a **Dev Weekends Fellow '26** collaborating with local tech communities, and I am actively **seeking internship and collaboration opportunities** where I can contribute to real-world projects and grow as a developer.
 
 Alongside coding, I am a **passionate self-learner** currently mastering **MERN Stack Development** while practicing **DSA on LeetCode** to strengthen my programming fundamentals.
 
