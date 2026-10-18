@@ -32,14 +32,13 @@ Currently, I'm pursuing my **DAE in Software Technology** through a joint progra
 
 ## 🚀 About Me
 
-- 💻 Software Engineer specializing in Python & Full-Stack Web Development (React, Next.js, Node.js)
-- 🐍 Primary Focus: Python, Data Structures & Algorithms (LeetCode), and Web Architectures
-- 🎨 UI/UX Design enthusiast using Figma for wireframing, components, and prototypes
-- 🎓 Computer Science student focusing on modern software engineering and development
-- 🤝 Dev Weekends Fellow '26 collaborating with local tech communities
-- 📚 Passionate self-learner constantly exploring modern tech stacks and tools
-- ⚙️ Skilled in setting up Linux dev environments, GitHub workflows, and full-stack tools
-- 🌐 Open for paid internships, freelance projects, and tech collaborations
+- 💻 **Full-Stack & MERN Developer** specializing in building modern web apps, REST APIs, and responsive interfaces
+- 🎓 **DAE Software Technology Student** at GCT Lahore, through a joint program by **TEVTA & Shenzhen Institute**
+- 🐍 **Primary Focus:** MERN stack, Python, and strengthening problem-solving skills with **DSA on LeetCode**
+- 🎨 **UI/UX Design Enthusiast** using Figma for wireframing, components, and interactive prototypes
+- 🤝 **Dev Weekends Fellow '26** collaborating with local developers and building production-grade projects
+- ⚙️ **Tools & Environment:** Skilled with Git/GitHub, Linux development environments, and VS Code workflows
+- 🌐 **Open For:** Paid internships, collaborative projects, and tech opportunities
 
 ---
 
