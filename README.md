@@ -19,11 +19,14 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Python Developer** specializing in **Python-based web development** and data-driven applications. I enjoy transforming ideas into clean, functional code while continuously learning modern software development practices.
 
-Currently, I am a **Dev Weekends Fellow '26** collaborating with local tech communities, and I am actively **seeking internship and collaboration opportunities** where I can contribute to real-world projects and grow as a developer.
+#### Hi there 👋, I'm Mehmood Hassan
 
-Alongside coding, I am a **passionate self-learner** currently mastering **MERN Stack Development** while practicing **DSA on LeetCode** to strengthen my programming fundamentals.
+I'm a passionate **MERN Stack & Full-Stack Developer** specializing in building modern web applications, scalable backend APIs, and interactive UI systems. I enjoy transforming complex ideas into clean, functional code while continuously pushing my boundaries.
+
+Currently, I'm pursuing my **DAE in Software Technology** through a joint program by **TEVTA & Shenzhen Institute at GCT Lahore**, combining technical precision with global learning standards. I'm also proud to be a **Dev Weekends Fellow '26**, collaborating with fellow developers, building real-world projects, and sharpening my problem-solving skills with **DSA on LeetCode**.
+
+🚀 I am actively **seeking paid internships and collaboration opportunities** where I can contribute to impactful web applications, build scalable systems, and grow alongside a dynamic engineering team.
 
 ---
 
