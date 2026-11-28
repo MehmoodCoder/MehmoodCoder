@@ -57,12 +57,10 @@ Currently, I'm pursuing my **DAE in Software Technology** through a joint progra
     <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
       <td style="padding: 12px;"><b>Languages</b></td>
       <td style="padding: 12px; vertical-align: middle;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="38" height="38" alt="Python" align="absmiddle" />&nbsp;&nbsp;
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" width="38" height="38" alt="C" align="absmiddle" /></a>&nbsp;&nbsp;
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" width="38" height="38" alt="C" align="absmiddle" /></a>&nbsp;&nbsp;
+         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" width="38" height="38" alt="C" align="absmiddle" /></a>&nbsp;&nbsp;
          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="38" height="38" alt="C" align="absmiddle" /></a>&nbsp;&nbsp;
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="38" height="38" alt="JavaScript" align="absmiddle" />&nbsp;&nbsp;
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="38" height="38" alt="JavaScript" align="absmiddle" />&nbsp;&nbsp;
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" height="38" alt="HTML/CSS" align="absmiddle" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,html,css" height="38" alt="HTML/CSS" align="absmiddle" /></a>
       </td>
       <td style="padding: 12px;">Python, C, Java, JavaScript (ES6+), TypeScript, HTML5, CSS3</td>
     </tr>
@@ -71,7 +69,7 @@ Currently, I'm pursuing my **DAE in Software Technology** through a joint progra
       <td style="padding: 12px;"><b>Frontend Frameworks</b></td>
       <td style="padding: 12px; vertical-align: middle;">
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next" width="38" height="38" alt="Next.js" align="absmiddle" /></a>&nbsp;&nbsp;
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="38" height="38" alt="React" align="absmiddle" />&nbsp;&nbsp;
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="38" height="38" alt="Next.js" align="absmiddle" /></a>&nbsp;&nbsp;
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite,tailwind,bootstrap" height="38" alt="Vite, Tailwind, Bootstrap" align="absmiddle" /></a>
       </td>
       <td style="padding: 12px;">Next.js, React.js, Vite, Tailwind CSS, Bootstrap</td>
